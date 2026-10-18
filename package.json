@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.42.2",
+    "react-hook-form": "^7.80.0"
+  }
+}

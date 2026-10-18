@@ -1,0 +1,48 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+    z-index: 999;
+    margin-left: 260px;
+    position: sticky;
+    top: 0;
+}
+
+.search-input {
+    padding: 14px 24px;
+    border-radius: 30px;
+    background-color: #f1f5f9;
+    border: 2px solid transparent;
+    outline: none;
+    width: 20rem;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    color: #1e293b;
+}
+
+.search-input:focus {
+    background-color: white;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.15);
+}
+
+.profile-container {
+    display: flex;
+    gap: 24px;
+}
+
+.nav-icons {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #64748b;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.nav-icons:hover {
+    color: #3b82f6;
+    transform: scale(1.2) translateY(-2px);
+}
