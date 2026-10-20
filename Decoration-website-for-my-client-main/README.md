@@ -1,12 +1,13 @@
-# 🎈 Decor Joy Gurgaon - Showcase Catalogue, Event Inquiries & Admin CRM
+# 🎈 Decor Joy Gurgaon - Frontend
 
 > **"Your Celebration. Our Creation."**  
 > Gurugram's premier event and party decoration styling service, operating since 2021.
 
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org/)
+> ⚠️ **Note:** This repository contains **only the frontend** (`client/`) portion of the full-stack Decor Joy Gurgaon project, developed by **Ansh Bhola**. The backend (Express + MongoDB) was developed separately by a team member and is not included here.
+
 [![React Version](https://img.shields.io/badge/react-19.0.0-blue.svg)](https://react.dev/)
-[![Express Version](https://img.shields.io/badge/express-4.21.2-lightgrey.svg)](https://expressjs.com/)
-[![Database](https://img.shields.io/badge/database-MongoDB%20Atlas-green.svg)](https://www.mongodb.com/atlas)
+[![Vite](https://img.shields.io/badge/bundler-Vite-646CFF.svg)](https://vitejs.dev/)
+[![Frontend Only](https://img.shields.io/badge/scope-Frontend%20Only-orange.svg)](#)
 [![License](https://img.shields.io/badge/license-ISC-blue.svg)](#)
 
 ---
@@ -273,8 +274,10 @@ The codebase includes automated test suites covering all critical paths:
 
 Built with care for **Decor Joy Gurgaon** by:
 
-- **Tushar Chawla** — [GitHub Profile](https://github.com/Tushar-cy)
-- **Ansh Bhola** — [GitHub Profile](https://github.com/ansh2028)
+- **Ansh Bhola** — Frontend Developer — [GitHub Profile](https://github.com/ansh2028)
+
+> 🖥️ **This repository showcases the frontend (React 19 + Vite) developed solely by Ansh Bhola.**  
+> The full-stack project also includes a backend (Express 4 + MongoDB Atlas) developed collaboratively, which is not part of this public repository.
 
 ---
 
